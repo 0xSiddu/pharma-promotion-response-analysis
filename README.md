@@ -2,6 +2,8 @@
 
 > **Note:** everything in `demo_outputs/` is generated from SIMULATED data to test the pipeline. It is not a real finding. Real results will be added after running on the CMS data.
 
+> **Note:** everything in `demo_outputs/` is generated from SIMULATED data to test the pipeline. It is not a real finding. Real results will be added after running on the CMS data.
+
 **Question:** Do doctors who receive pharma payments prescribe more diabetes drugs than similar doctors who do not?
 
 **Data (free, US government):** Medicare Part D Prescribers by Provider and Drug, and Open Payments General Payments, both from data.cms.gov, same year.
