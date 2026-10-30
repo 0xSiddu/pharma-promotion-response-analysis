@@ -1,0 +1,11 @@
+FINDINGS  [SIMULATED DEMO DATA]
+Doctors analysed: 6,000 (55% received payments)
+Overall: paid doctors' average prescriptions differ from unpaid doctors' by +5.3%.
+Largest lift: Endocrinology (+15.6%).
+After controlling for specialty and state (regression): going from $0 to $100 in
+payments is associated with a +8.5% change in prescriptions, and $0 to $1,000
+with a +12.9% change (coefficient 0.0176, p=1.02e-14).
+
+CAVEAT: this is association, not causation. Companies may pay doctors who already
+prescribe heavily. A matched-region pilot or before/after design would be needed
+to estimate the true promotion effect.
